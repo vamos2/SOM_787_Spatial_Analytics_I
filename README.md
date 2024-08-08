@@ -1,0 +1,2 @@
+# SOM_787_Spatial_Analytics_I
+SOM_787_Course_work_related
